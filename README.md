@@ -1,2 +1,2 @@
 # Sole
-<a href="Voce/Sole.html"> Pagina di risposta </a>
+<a href="voce/Sole.html"> Pagina di risposta </a>
